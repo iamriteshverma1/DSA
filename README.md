@@ -57,4 +57,13 @@ and improve problem-solving skills.
 | ------- |
 | [0012-integer-to-roman](https://github.com/iamriteshverma1/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/iamriteshverma1/DSA/tree/master/0013-roman-to-integer) |
+| [3174-clear-digits](https://github.com/iamriteshverma1/DSA/tree/master/3174-clear-digits) |
+## Stack
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/iamriteshverma1/DSA/tree/master/3174-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/iamriteshverma1/DSA/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
