@@ -83,4 +83,8 @@ and improve problem-solving skills.
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/iamriteshverma1/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
