@@ -47,6 +47,7 @@ and improve problem-solving skills.
 | ------- |
 | [0012-integer-to-roman](https://github.com/iamriteshverma1/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/iamriteshverma1/DSA/tree/master/0013-roman-to-integer) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Math
 |  |
 | ------- |
@@ -66,4 +67,20 @@ and improve problem-solving skills.
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/iamriteshverma1/DSA/tree/master/3174-clear-digits) |
+## Array
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Binary Search
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
