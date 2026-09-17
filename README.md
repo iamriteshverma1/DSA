@@ -87,4 +87,5 @@ and improve problem-solving skills.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/iamriteshverma1/DSA/tree/master/0175-combine-two-tables) |
+| [3220-odd-and-even-transactions](https://github.com/iamriteshverma1/DSA/tree/master/3220-odd-and-even-transactions) |
 <!---LeetCode Topics End-->
