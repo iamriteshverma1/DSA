@@ -70,6 +70,7 @@ and improve problem-solving skills.
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/iamriteshverma1/DSA/tree/master/0088-merge-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Search
 |  |
@@ -88,4 +89,12 @@ and improve problem-solving skills.
 | ------- |
 | [0175-combine-two-tables](https://github.com/iamriteshverma1/DSA/tree/master/0175-combine-two-tables) |
 | [3220-odd-and-even-transactions](https://github.com/iamriteshverma1/DSA/tree/master/3220-odd-and-even-transactions) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/iamriteshverma1/DSA/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/iamriteshverma1/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
