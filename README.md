@@ -58,6 +58,7 @@ and improve problem-solving skills.
 | ------- |
 | [0012-integer-to-roman](https://github.com/iamriteshverma1/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/iamriteshverma1/DSA/tree/master/0013-roman-to-integer) |
+| [2833-furthest-point-from-origin](https://github.com/iamriteshverma1/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3174-clear-digits](https://github.com/iamriteshverma1/DSA/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/iamriteshverma1/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -107,4 +108,8 @@ and improve problem-solving skills.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/iamriteshverma1/DSA/tree/master/0206-reverse-linked-list) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/iamriteshverma1/DSA/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
