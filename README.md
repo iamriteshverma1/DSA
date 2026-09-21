@@ -73,6 +73,7 @@ and improve problem-solving skills.
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/iamriteshverma1/DSA/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/iamriteshverma1/DSA/tree/master/0088-merge-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Search
@@ -112,4 +113,8 @@ and improve problem-solving skills.
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/iamriteshverma1/DSA/tree/master/2833-furthest-point-from-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/iamriteshverma1/DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
