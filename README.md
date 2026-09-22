@@ -53,6 +53,7 @@ and improve problem-solving skills.
 | ------- |
 | [0012-integer-to-roman](https://github.com/iamriteshverma1/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/iamriteshverma1/DSA/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/iamriteshverma1/DSA/tree/master/0050-powx-n) |
 | [3524-find-x-value-of-array-i](https://github.com/iamriteshverma1/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## String
 |  |
@@ -112,6 +113,7 @@ and improve problem-solving skills.
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/iamriteshverma1/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/iamriteshverma1/DSA/tree/master/0206-reverse-linked-list) |
 ## Counting
 |  |
