@@ -47,6 +47,7 @@ and improve problem-solving skills.
 | ------- |
 | [0012-integer-to-roman](https://github.com/iamriteshverma1/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/iamriteshverma1/DSA/tree/master/0013-roman-to-integer) |
+| [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Math
 |  |
@@ -61,6 +62,7 @@ and improve problem-solving skills.
 | ------- |
 | [0012-integer-to-roman](https://github.com/iamriteshverma1/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/iamriteshverma1/DSA/tree/master/0013-roman-to-integer) |
+| [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
 | [2833-furthest-point-from-origin](https://github.com/iamriteshverma1/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3174-clear-digits](https://github.com/iamriteshverma1/DSA/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/iamriteshverma1/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -78,6 +80,7 @@ and improve problem-solving skills.
 | ------- |
 | [0046-permutations](https://github.com/iamriteshverma1/DSA/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/iamriteshverma1/DSA/tree/master/0088-merge-sorted-array) |
+| [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
 | [0238-product-of-array-except-self](https://github.com/iamriteshverma1/DSA/tree/master/0238-product-of-array-except-self) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/iamriteshverma1/DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -89,6 +92,7 @@ and improve problem-solving skills.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/iamriteshverma1/DSA/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/iamriteshverma1/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Sliding Window
@@ -126,6 +130,7 @@ and improve problem-solving skills.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/iamriteshverma1/DSA/tree/master/0046-permutations) |
+| [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -134,4 +139,9 @@ and improve problem-solving skills.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/iamriteshverma1/DSA/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
