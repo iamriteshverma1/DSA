@@ -1,4 +1,6 @@
-//Try to sove wiht HAsh Map 
+//Try to sove wiht Hash Map 
+
+/*
 class Solution {
 private: 
     int NextNum(int n) {
@@ -19,5 +21,31 @@ public:
         }
 
         return n == 1;
+    }
+};
+
+*/
+
+//Try to sove using Two pointer Slow and Fast to chace the number cycl
+class Solution {
+private: 
+    int NextNum(int n) {
+        int totalSum = 0;
+        while(n) {
+            int digit= n % 10;
+            n /= 10;
+            totalSum += digit * digit; 
+        }
+        return totalSum;
+    }
+public:
+    bool isHappy(int n) {
+        int slow = n;
+        int fast = NextNum(n);
+        while(fast != 1 && slow != fast) {
+            slow = NextNum(slow);
+            fast = NextNum(NextNum(fast));
+        }
+        return fast == 1;
     }
 };
