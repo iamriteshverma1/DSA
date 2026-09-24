@@ -59,6 +59,7 @@ and improve problem-solving skills.
 | [0070-climbing-stairs](https://github.com/iamriteshverma1/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/iamriteshverma1/DSA/tree/master/0202-happy-number) |
 | [3524-find-x-value-of-array-i](https://github.com/iamriteshverma1/DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamriteshverma1/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
@@ -86,6 +87,7 @@ and improve problem-solving skills.
 | [0238-product-of-array-except-self](https://github.com/iamriteshverma1/DSA/tree/master/0238-product-of-array-except-self) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/iamriteshverma1/DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamriteshverma1/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
