@@ -51,6 +51,7 @@ and improve problem-solving skills.
 | [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
 | [0202-happy-number](https://github.com/iamriteshverma1/DSA/tree/master/0202-happy-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iamriteshverma1/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@ and improve problem-solving skills.
 | [0139-word-break](https://github.com/iamriteshverma1/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iamriteshverma1/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/iamriteshverma1/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3174-clear-digits](https://github.com/iamriteshverma1/DSA/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/iamriteshverma1/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -92,6 +94,7 @@ and improve problem-solving skills.
 | [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
 | [0238-product-of-array-except-self](https://github.com/iamriteshverma1/DSA/tree/master/0238-product-of-array-except-self) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iamriteshverma1/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/iamriteshverma1/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamriteshverma1/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
