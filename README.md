@@ -51,6 +51,7 @@ and improve problem-solving skills.
 | [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
 | [0202-happy-number](https://github.com/iamriteshverma1/DSA/tree/master/0202-happy-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/iamriteshverma1/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iamriteshverma1/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Math
 |  |
@@ -72,6 +73,7 @@ and improve problem-solving skills.
 | [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/iamriteshverma1/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iamriteshverma1/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/iamriteshverma1/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3174-clear-digits](https://github.com/iamriteshverma1/DSA/tree/master/3174-clear-digits) |
@@ -143,6 +145,7 @@ and improve problem-solving skills.
 ## Counting
 |  |
 | ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/iamriteshverma1/DSA/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2833-furthest-point-from-origin](https://github.com/iamriteshverma1/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Backtracking
 |  |
