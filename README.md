@@ -96,6 +96,7 @@ and improve problem-solving skills.
 | ------- |
 | [0001-two-sum](https://github.com/iamriteshverma1/DSA/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/iamriteshverma1/DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/iamriteshverma1/DSA/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/iamriteshverma1/DSA/tree/master/0088-merge-sorted-array) |
 | [0139-word-break](https://github.com/iamriteshverma1/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
@@ -156,6 +157,7 @@ and improve problem-solving skills.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/iamriteshverma1/DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/iamriteshverma1/DSA/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
 ## Prefix Sum
 |  |
@@ -205,4 +207,8 @@ and improve problem-solving skills.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iamriteshverma1/DSA/tree/master/0005-longest-palindromic-substring) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/iamriteshverma1/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
