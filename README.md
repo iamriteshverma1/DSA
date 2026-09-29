@@ -45,6 +45,7 @@ and improve problem-solving skills.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iamriteshverma1/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/iamriteshverma1/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/iamriteshverma1/DSA/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/iamriteshverma1/DSA/tree/master/0139-word-break) |
@@ -93,6 +94,7 @@ and improve problem-solving skills.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iamriteshverma1/DSA/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/iamriteshverma1/DSA/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/iamriteshverma1/DSA/tree/master/0088-merge-sorted-array) |
 | [0139-word-break](https://github.com/iamriteshverma1/DSA/tree/master/0139-word-break) |
