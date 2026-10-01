@@ -64,6 +64,7 @@ and improve problem-solving skills.
 | [0202-happy-number](https://github.com/iamriteshverma1/DSA/tree/master/0202-happy-number) |
 | [3524-find-x-value-of-array-i](https://github.com/iamriteshverma1/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamriteshverma1/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/iamriteshverma1/DSA/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@ and improve problem-solving skills.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iamriteshverma1/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/iamriteshverma1/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamriteshverma1/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/iamriteshverma1/DSA/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Binary Search
 |  |
 | ------- |
