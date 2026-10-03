@@ -74,6 +74,7 @@ and improve problem-solving skills.
 | [0020-valid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamriteshverma1/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/iamriteshverma1/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -87,6 +88,7 @@ and improve problem-solving skills.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3174-clear-digits](https://github.com/iamriteshverma1/DSA/tree/master/3174-clear-digits) |
@@ -119,6 +121,7 @@ and improve problem-solving skills.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iamriteshverma1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/iamriteshverma1/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/iamriteshverma1/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
@@ -210,6 +213,7 @@ and improve problem-solving skills.
 | ------- |
 | [0020-valid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
