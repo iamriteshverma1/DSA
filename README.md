@@ -78,6 +78,7 @@ and improve problem-solving skills.
 | [0032-longest-valid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/iamriteshverma1/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
+| [0678-valid-parenthesis-string](https://github.com/iamriteshverma1/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/iamriteshverma1/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -91,6 +92,7 @@ and improve problem-solving skills.
 | ------- |
 | [0020-valid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/iamriteshverma1/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/iamriteshverma1/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -130,6 +132,7 @@ and improve problem-solving skills.
 | [0070-climbing-stairs](https://github.com/iamriteshverma1/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/iamriteshverma1/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
+| [0678-valid-parenthesis-string](https://github.com/iamriteshverma1/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/iamriteshverma1/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Sliding Window
@@ -221,6 +224,7 @@ and improve problem-solving skills.
 | [0020-valid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/iamriteshverma1/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/iamriteshverma1/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -232,4 +236,8 @@ and improve problem-solving skills.
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/iamriteshverma1/DSA/tree/master/0051-n-queens) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/iamriteshverma1/DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
