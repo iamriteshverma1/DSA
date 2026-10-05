@@ -111,6 +111,7 @@ and improve problem-solving skills.
 | [0088-merge-sorted-array](https://github.com/iamriteshverma1/DSA/tree/master/0088-merge-sorted-array) |
 | [0139-word-break](https://github.com/iamriteshverma1/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
+| [0200-number-of-islands](https://github.com/iamriteshverma1/DSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/iamriteshverma1/DSA/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamriteshverma1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -240,4 +241,20 @@ and improve problem-solving skills.
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/iamriteshverma1/DSA/tree/master/0678-valid-parenthesis-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/iamriteshverma1/DSA/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/iamriteshverma1/DSA/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/iamriteshverma1/DSA/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/iamriteshverma1/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
