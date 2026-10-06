@@ -60,6 +60,7 @@ and improve problem-solving skills.
 | ------- |
 | [0012-integer-to-roman](https://github.com/iamriteshverma1/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/iamriteshverma1/DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/iamriteshverma1/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/iamriteshverma1/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/iamriteshverma1/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/iamriteshverma1/DSA/tree/master/0202-happy-number) |
@@ -264,4 +265,8 @@ and improve problem-solving skills.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/iamriteshverma1/DSA/tree/master/0200-number-of-islands) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/iamriteshverma1/DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
