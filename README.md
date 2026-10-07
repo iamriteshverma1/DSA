@@ -79,6 +79,7 @@ and improve problem-solving skills.
 | [0032-longest-valid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/iamriteshverma1/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/iamriteshverma1/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iamriteshverma1/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -185,6 +186,7 @@ and improve problem-solving skills.
 | [0046-permutations](https://github.com/iamriteshverma1/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/iamriteshverma1/DSA/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -257,6 +259,7 @@ and improve problem-solving skills.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/iamriteshverma1/DSA/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Union-Find
 |  |
 | ------- |
