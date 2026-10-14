@@ -129,6 +129,7 @@ and improve problem-solving skills.
 | [2778-sum-of-squares-of-special-elements](https://github.com/iamriteshverma1/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/iamriteshverma1/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamriteshverma1/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/iamriteshverma1/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/iamriteshverma1/DSA/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Binary Search
 |  |
@@ -169,6 +170,7 @@ and improve problem-solving skills.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/iamriteshverma1/DSA/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamriteshverma1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/iamriteshverma1/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
@@ -259,6 +261,7 @@ and improve problem-solving skills.
 | [0678-valid-parenthesis-string](https://github.com/iamriteshverma1/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iamriteshverma1/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iamriteshverma1/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/iamriteshverma1/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Depth-First Search
 |  |
 | ------- |
