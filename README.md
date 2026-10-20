@@ -128,6 +128,7 @@ and improve problem-solving skills.
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamriteshverma1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iamriteshverma1/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/iamriteshverma1/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/iamriteshverma1/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/iamriteshverma1/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3524-find-x-value-of-array-i](https://github.com/iamriteshverma1/DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -139,6 +140,7 @@ and improve problem-solving skills.
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamriteshverma1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/iamriteshverma1/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -173,6 +175,7 @@ and improve problem-solving skills.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/iamriteshverma1/DSA/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamriteshverma1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/iamriteshverma1/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/iamriteshverma1/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
