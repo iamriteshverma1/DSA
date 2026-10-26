@@ -65,6 +65,7 @@ and improve problem-solving skills.
 | [0050-powx-n](https://github.com/iamriteshverma1/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/iamriteshverma1/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/iamriteshverma1/DSA/tree/master/0202-happy-number) |
+| [0279-perfect-squares](https://github.com/iamriteshverma1/DSA/tree/master/0279-perfect-squares) |
 | [3524-find-x-value-of-array-i](https://github.com/iamriteshverma1/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamriteshverma1/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/iamriteshverma1/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -150,6 +151,7 @@ and improve problem-solving skills.
 | [0070-climbing-stairs](https://github.com/iamriteshverma1/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/iamriteshverma1/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
+| [0279-perfect-squares](https://github.com/iamriteshverma1/DSA/tree/master/0279-perfect-squares) |
 | [0678-valid-parenthesis-string](https://github.com/iamriteshverma1/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/iamriteshverma1/DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -277,6 +279,7 @@ and improve problem-solving skills.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/iamriteshverma1/DSA/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/iamriteshverma1/DSA/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Union-Find
 |  |
@@ -302,4 +305,12 @@ and improve problem-solving skills.
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/iamriteshverma1/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/iamriteshverma1/DSA/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/iamriteshverma1/DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
