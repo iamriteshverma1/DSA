@@ -101,6 +101,7 @@ and improve problem-solving skills.
 | ------- |
 | [0020-valid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/iamriteshverma1/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/iamriteshverma1/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iamriteshverma1/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -274,6 +275,7 @@ and improve problem-solving skills.
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/iamriteshverma1/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/iamriteshverma1/DSA/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -313,4 +315,12 @@ and improve problem-solving skills.
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/iamriteshverma1/DSA/tree/master/0279-perfect-squares) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/iamriteshverma1/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/iamriteshverma1/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
