@@ -129,6 +129,7 @@ and improve problem-solving skills.
 | [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
 | [0200-number-of-islands](https://github.com/iamriteshverma1/DSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/iamriteshverma1/DSA/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/iamriteshverma1/DSA/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamriteshverma1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iamriteshverma1/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -155,6 +156,7 @@ and improve problem-solving skills.
 | [0139-word-break](https://github.com/iamriteshverma1/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
 | [0279-perfect-squares](https://github.com/iamriteshverma1/DSA/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/iamriteshverma1/DSA/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/iamriteshverma1/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/iamriteshverma1/DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -287,6 +289,7 @@ and improve problem-solving skills.
 | [0200-number-of-islands](https://github.com/iamriteshverma1/DSA/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/iamriteshverma1/DSA/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/iamriteshverma1/DSA/tree/master/0322-coin-change) |
 ## Union-Find
 |  |
 | ------- |
@@ -315,10 +318,12 @@ and improve problem-solving skills.
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/iamriteshverma1/DSA/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/iamriteshverma1/DSA/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/iamriteshverma1/DSA/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/iamriteshverma1/DSA/tree/master/0322-coin-change) |
 ## Tree
 |  |
 | ------- |
