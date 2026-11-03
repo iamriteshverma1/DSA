@@ -69,6 +69,7 @@ and improve problem-solving skills.
 | [3524-find-x-value-of-array-i](https://github.com/iamriteshverma1/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamriteshverma1/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/iamriteshverma1/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/iamriteshverma1/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/iamriteshverma1/DSA/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## String
 |  |
@@ -139,6 +140,7 @@ and improve problem-solving skills.
 | [3524-find-x-value-of-array-i](https://github.com/iamriteshverma1/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamriteshverma1/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/iamriteshverma1/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/iamriteshverma1/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/iamriteshverma1/DSA/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Binary Search
 |  |
