@@ -90,6 +90,7 @@ and improve problem-solving skills.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iamriteshverma1/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/iamriteshverma1/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1143-longest-common-subsequence](https://github.com/iamriteshverma1/DSA/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iamriteshverma1/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -162,6 +163,7 @@ and improve problem-solving skills.
 | [0279-perfect-squares](https://github.com/iamriteshverma1/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/iamriteshverma1/DSA/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/iamriteshverma1/DSA/tree/master/0678-valid-parenthesis-string) |
+| [1143-longest-common-subsequence](https://github.com/iamriteshverma1/DSA/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/iamriteshverma1/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Sliding Window
@@ -341,4 +343,8 @@ and improve problem-solving skills.
 | [0094-binary-tree-inorder-traversal](https://github.com/iamriteshverma1/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/iamriteshverma1/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/iamriteshverma1/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/iamriteshverma1/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
