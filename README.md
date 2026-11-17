@@ -141,6 +141,7 @@ and improve problem-solving skills.
 | [0322-coin-change](https://github.com/iamriteshverma1/DSA/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamriteshverma1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/iamriteshverma1/DSA/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/iamriteshverma1/DSA/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/iamriteshverma1/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/iamriteshverma1/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -192,6 +193,7 @@ and improve problem-solving skills.
 | [0088-merge-sorted-array](https://github.com/iamriteshverma1/DSA/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/iamriteshverma1/DSA/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamriteshverma1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/iamriteshverma1/DSA/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/iamriteshverma1/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
@@ -199,6 +201,7 @@ and improve problem-solving skills.
 | [0088-merge-sorted-array](https://github.com/iamriteshverma1/DSA/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamriteshverma1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/iamriteshverma1/DSA/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/iamriteshverma1/DSA/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/iamriteshverma1/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/iamriteshverma1/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/iamriteshverma1/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -290,6 +293,7 @@ and improve problem-solving skills.
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/iamriteshverma1/DSA/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/iamriteshverma1/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iamriteshverma1/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iamriteshverma1/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -364,4 +368,8 @@ and improve problem-solving skills.
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/iamriteshverma1/DSA/tree/master/1143-longest-common-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/iamriteshverma1/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
