@@ -62,6 +62,7 @@ and improve problem-solving skills.
 | [0012-integer-to-roman](https://github.com/iamriteshverma1/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/iamriteshverma1/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/iamriteshverma1/DSA/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/iamriteshverma1/DSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/iamriteshverma1/DSA/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/iamriteshverma1/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/iamriteshverma1/DSA/tree/master/0070-climbing-stairs) |
@@ -83,6 +84,7 @@ and improve problem-solving skills.
 | [0022-generate-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamriteshverma1/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/iamriteshverma1/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/iamriteshverma1/DSA/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/iamriteshverma1/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/iamriteshverma1/DSA/tree/master/0140-word-break-ii) |
@@ -121,6 +123,7 @@ and improve problem-solving skills.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/iamriteshverma1/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/iamriteshverma1/DSA/tree/master/0067-add-binary) |
 | [3174-clear-digits](https://github.com/iamriteshverma1/DSA/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/iamriteshverma1/DSA/tree/master/3498-reverse-degree-of-a-string) |
