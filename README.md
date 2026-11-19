@@ -147,6 +147,7 @@ and improve problem-solving skills.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iamriteshverma1/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/iamriteshverma1/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/iamriteshverma1/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/iamriteshverma1/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/iamriteshverma1/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3524-find-x-value-of-array-i](https://github.com/iamriteshverma1/DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -205,6 +206,7 @@ and improve problem-solving skills.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/iamriteshverma1/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/iamriteshverma1/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/iamriteshverma1/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/iamriteshverma1/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/iamriteshverma1/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
@@ -297,6 +299,7 @@ and improve problem-solving skills.
 | [0678-valid-parenthesis-string](https://github.com/iamriteshverma1/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iamriteshverma1/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iamriteshverma1/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/iamriteshverma1/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/iamriteshverma1/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/iamriteshverma1/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Depth-First Search
