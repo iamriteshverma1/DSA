@@ -113,6 +113,7 @@ and improve problem-solving skills.
 | [0144-binary-tree-preorder-traversal](https://github.com/iamriteshverma1/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/iamriteshverma1/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/iamriteshverma1/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/iamriteshverma1/DSA/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iamriteshverma1/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/iamriteshverma1/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -126,6 +127,7 @@ and improve problem-solving skills.
 | ------- |
 | [0043-multiply-strings](https://github.com/iamriteshverma1/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/iamriteshverma1/DSA/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/iamriteshverma1/DSA/tree/master/0735-asteroid-collision) |
 | [3174-clear-digits](https://github.com/iamriteshverma1/DSA/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/iamriteshverma1/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
@@ -144,6 +146,7 @@ and improve problem-solving skills.
 | [0414-third-maximum-number](https://github.com/iamriteshverma1/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/iamriteshverma1/DSA/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/iamriteshverma1/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0735-asteroid-collision](https://github.com/iamriteshverma1/DSA/tree/master/0735-asteroid-collision) |
 | [1352-product-of-the-last-k-numbers](https://github.com/iamriteshverma1/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/iamriteshverma1/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamriteshverma1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
