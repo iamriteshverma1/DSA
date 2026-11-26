@@ -50,6 +50,7 @@ and improve problem-solving skills.
 | [0279-perfect-squares](https://github.com/iamriteshverma1/DSA/tree/master/0279-perfect-squares) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/iamriteshverma1/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/iamriteshverma1/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/iamriteshverma1/DSA/tree/master/3360-stone-removal-game) |
 | [3524-find-x-value-of-array-i](https://github.com/iamriteshverma1/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamriteshverma1/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/iamriteshverma1/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -109,6 +110,7 @@ and improve problem-solving skills.
 | [0067-add-binary](https://github.com/iamriteshverma1/DSA/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/iamriteshverma1/DSA/tree/master/0735-asteroid-collision) |
 | [3174-clear-digits](https://github.com/iamriteshverma1/DSA/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/iamriteshverma1/DSA/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/iamriteshverma1/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
